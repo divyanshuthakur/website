@@ -46,3 +46,8 @@ h2,
   font-size: 14px;
   color: rgb(107, 116, 131);
 }
+
+::selection {
+  background: #ffde5a;
+  /* background: #ffe26d; */
+}
